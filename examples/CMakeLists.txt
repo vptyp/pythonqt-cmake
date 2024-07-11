@@ -1,0 +1,8 @@
+add_subdirectory(CPPPyWrapperExample)
+add_subdirectory(PyGettingStarted)
+add_subdirectory(PyCPPWrapperExample)
+add_subdirectory(PyCustomMetaTypeExample)
+add_subdirectory(PyGuiExample)
+add_subdirectory(PyDecoratorsExample)
+add_subdirectory(PyScriptingConsole)
+add_subdirectory(PyLauncher)
